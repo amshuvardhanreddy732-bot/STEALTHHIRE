@@ -1,0 +1,6 @@
+{
+  "name": "StealthHire AI",
+  "description": "AI-powered startup opportunity discovery platform. Identify under-the-radar hiring signals before jobs are posted.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
